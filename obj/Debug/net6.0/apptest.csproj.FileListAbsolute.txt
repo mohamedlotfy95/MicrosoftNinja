@@ -1,0 +1,15 @@
+D:\DevOps\dotnet\apptest\bin\Debug\net6.0\apptest.exe
+D:\DevOps\dotnet\apptest\bin\Debug\net6.0\apptest.deps.json
+D:\DevOps\dotnet\apptest\bin\Debug\net6.0\apptest.runtimeconfig.json
+D:\DevOps\dotnet\apptest\bin\Debug\net6.0\apptest.dll
+D:\DevOps\dotnet\apptest\bin\Debug\net6.0\apptest.pdb
+D:\DevOps\dotnet\apptest\obj\Debug\net6.0\apptest.csproj.AssemblyReference.cache
+D:\DevOps\dotnet\apptest\obj\Debug\net6.0\apptest.GeneratedMSBuildEditorConfig.editorconfig
+D:\DevOps\dotnet\apptest\obj\Debug\net6.0\apptest.AssemblyInfoInputs.cache
+D:\DevOps\dotnet\apptest\obj\Debug\net6.0\apptest.AssemblyInfo.cs
+D:\DevOps\dotnet\apptest\obj\Debug\net6.0\apptest.csproj.CoreCompileInputs.cache
+D:\DevOps\dotnet\apptest\obj\Debug\net6.0\apptest.dll
+D:\DevOps\dotnet\apptest\obj\Debug\net6.0\refint\apptest.dll
+D:\DevOps\dotnet\apptest\obj\Debug\net6.0\apptest.pdb
+D:\DevOps\dotnet\apptest\obj\Debug\net6.0\apptest.genruntimeconfig.cache
+D:\DevOps\dotnet\apptest\obj\Debug\net6.0\ref\apptest.dll
